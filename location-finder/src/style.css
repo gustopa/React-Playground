@@ -1,0 +1,26 @@
+.navigation-container{
+    position: absolute;
+    display: grid;
+    place-items: center;
+    width: 100%;
+}
+.navigation{
+    background: rgba(0, 0, 0, .8);
+    padding: 10px 14px 20px 14px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+button{
+    padding: 5px;
+    margin-left: 5px;
+    background: white;
+    border: none;
+    border-radius: 3px;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+
+}
